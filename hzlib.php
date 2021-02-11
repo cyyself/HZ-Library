@@ -25,3 +25,4 @@ function hz_decode($s) {
 	}
 	return iconv('gb2312','utf-8',$buf);
 }
+?>
